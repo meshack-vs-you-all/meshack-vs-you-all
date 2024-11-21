@@ -1,4 +1,3 @@
----
 
 ### 👋 Hello, I'm Meshack!
 
@@ -20,7 +19,6 @@ Here are some of the projects I’ve worked on:
 
 Let's collaborate and create something amazing!
 
----
 <!---
 meshack-vs-you-all/meshack-vs-you-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
