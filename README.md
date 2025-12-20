@@ -51,23 +51,23 @@ Here are a few projects I've built that demonstrate my ability to ship complex t
 > **Stack:** TypeScript, AI Agents  
 > An innovative solution leveraging **AI agents** to automate and optimize marketing strategies for Shopify stores. Solves the pain of manual campaign management by intelligently generating and managing marketing content.
 
-#### 💻 [OpenCode](https://github.com/meshack-vs-you-all/opencode)
-> **Stack:** TypeScript  
-> An **AI coding agent** built specifically for the terminal. It acts as a pair programmer that lives where you work, helping generate code, refactor files, and debug issues directly from your command line.
-
 #### 🏋️ [JPF Stretch Hub](https://github.com/meshack-vs-you-all/jpf-stretch-hub)
 > **Stack:** Django, Python, Web App  
 > A comprehensive business management platform built for a fitness studio. Handles **bookings, payments, and user management** seamlessly. This project demonstrates my ability to build and deploy production-ready full-stack applications solving real business needs.
-
+<!---
+#### 💻 [OpenCode](https://github.com/meshack-vs-you-all/opencode)
+> **Stack:** TypeScript  
+> An **AI coding agent** built specifically for the terminal. It acts as a pair programmer that lives where you work, helping generate code, refactor files, and debug issues directly from your command line.
+-->
 ---
 
 ### 📊 GitHub Stats
-
+<!---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meshack-vs-you-all&show_icons=true&theme=radical&hide_border=true" alt="Meshack's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meshack-vs-you-all&theme=radical&hide_border=true" alt="Meshack's GitHub Streak" />
 </div>
-
+-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-vs-you-all&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
