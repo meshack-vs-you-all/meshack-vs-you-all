@@ -2,7 +2,7 @@
 
 ## Full Stack Engineer | Building the Future with AI Agents & MCP
 
-I’m a **Full Stack Engineer** and **AI Developer** passionate about blending robust web architectures with cutting-edge AI tools. My work focuses on building **intelligent agents**, **terminal-based developer tools**, and **scalable Django/React applications**.
+I'm a **Full Stack Engineer** and **AI Developer** passionate about blending robust web architectures with cutting-edge AI tools. My work focuses on building **intelligent agents**, **terminal-based developer tools**, and **scalable Django/React applications**.
 
 Currently, I'm deep diving into **Local LLMs**, **Model Context Protocol (MCP)**, and creating autonomous workflows that solve real-world problems.
 
@@ -23,6 +23,7 @@ Currently, I'm deep diving into **Local LLMs**, **Model Context Protocol (MCP)**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Wagtail](https://img.shields.io/badge/Wagtail-0c3c26?style=for-the-badge&logo=wagtail&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,25 +52,46 @@ Here are a few projects I've built that demonstrate my ability to ship complex t
 > **Stack:** TypeScript, AI Agents  
 > An innovative solution leveraging **AI agents** to automate and optimize marketing strategies for Shopify stores. Solves the pain of manual campaign management by intelligently generating and managing marketing content.
 
-#### 🏋️ [JPF Stretch Hub](https://github.com/meshack-vs-you-all/jpf-stretch-hub)
+#### 🏋️ JPF Stretch Hub
 > **Stack:** Django, Python, Web App  
 > A comprehensive business management platform built for a fitness studio. Handles **bookings, payments, and user management** seamlessly. This project demonstrates my ability to build and deploy production-ready full-stack applications solving real business needs.
-<!---
-#### 💻 [OpenCode](https://github.com/meshack-vs-you-all/opencode)
-> **Stack:** TypeScript  
-> An **AI coding agent** built specifically for the terminal. It acts as a pair programmer that lives where you work, helping generate code, refactor files, and debug issues directly from your command line.
--->
+
+#### ✨ [Glowify](https://github.com/meshack-vs-you-all/Glowify)
+> **Stack:** Modern Web Technologies  
+> A recent project showcasing my ability to build clean, functional web applications. Currently in active development.
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meshack-vs-you-all&show_icons=true&theme=radical&hide_border=true" alt="Meshack's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meshack-vs-you-all&theme=radical&hide_border=true" alt="Meshack's GitHub Streak" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=meshack-vs-you-all&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/meshack-vs-you-all)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-vs-you-all&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+![Meshack's GitHub stats](https://github-readme-stats.vercel.app/api?username=meshack-vs-you-all&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-vs-you-all&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=meshack-vs-you-all&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/meshack-vs-you-all)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Meshack's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meshack-vs-you-all&theme=tokyo-night&hide_border=true)](https://github.com/meshack-vs-you-all)
+
 </div>
 
 ---
@@ -78,12 +100,29 @@ Here are a few projects I've built that demonstrate my ability to ship complex t
 
 I am currently open to opportunities where I can leverage my skills in **Full Stack Development** and **AI Engineering**. I thrive in environments that challenge me to build tools that empower other developers or businesses.
 
-- **Interest Areas:** AI Agents, Local LLMs, Developer Tools, SaaS Platforms.
-- **Roles:** Full Stack Engineer, Backend Engineer (Python/Django), AI Engineer.
+- **Interest Areas:** AI Agents, Local LLMs, Developer Tools, SaaS Platforms, MCP Protocol
+- **Roles:** Full Stack Engineer, Backend Engineer (Python/Django), AI Engineer, Developer Tools Engineer
 
-**📫 How to reach me:**
-*   Check out my [repositories](https://github.com/meshack-vs-you-all?tab=repositories) to see my code in action.
-*   Feel free to open an issue or pull request on any of my projects!
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/meshack-vs-you-all?label=Follow&style=social)](https://github.com/meshack-vs-you-all)
+[![GitHub stars](https://img.shields.io/github/stars/meshack-vs-you-all?affiliations=OWNER&style=social)](https://github.com/meshack-vs-you-all)
+
+**Check out my [repositories](https://github.com/meshack-vs-you-all?tab=repositories) to see my code in action.**
+
+Feel free to open an issue or pull request on any of my projects!
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=meshack-vs-you-all&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
 <!---
 meshack-vs-you-all/meshack-vs-you-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
