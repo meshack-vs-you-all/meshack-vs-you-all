@@ -1,25 +1,90 @@
+# Hi there, I'm Meshack! 👋
 
-### 👋 Hello, I'm Meshack!
+## Full Stack Engineer | Building the Future with AI Agents & MCP
 
-I'm a software engineer with a focus on **web development** and **mobile app adaptation**. I'm passionate about creating high-quality, scalable solutions that bridge the gap between web and mobile platforms. Here's a bit more about my work and interests:
+I’m a **Full Stack Engineer** and **AI Developer** passionate about blending robust web architectures with cutting-edge AI tools. My work focuses on building **intelligent agents**, **terminal-based developer tools**, and **scalable Django/React applications**.
 
-- **💡 Interests:** I specialize in full-stack web development and mobile app adaptation. I enjoy solving complex problems through technology and delivering seamless user experiences across platforms.
-  
-- **📖 Currently Learning:** I am currently expanding my expertise in **Django** (Python), **PostgreSQL**, and **Docker** to enhance my skills in building robust and scalable applications.
+Currently, I'm deep diving into **Local LLMs**, **Model Context Protocol (MCP)**, and creating autonomous workflows that solve real-world problems.
 
-- **🤝 Open to Collaborate:** I am always open to collaborating on **full-stack development** projects, particularly those that involve creating cross-platform applications or integrating mobile functionality into web solutions.
+---
 
-- **📫 How to Reach Me:** Feel free to connect with me through my [GitHub profile](https://github.com/meshack-vs-you-all) or reach out via [meshackmogire406@gmail.com].
+### 🛠️ Technical Arsenal
 
-### 🔗 Projects
-Here are some of the projects I’ve worked on:
+<div align="center">
 
-- **[Japheth's Powered Fitness | Stretch Hub Website](https://github.com/meshack-vs-you-all/jpf-strech-hub.git)** - JPF Stretch Hub is a comprehensive web application designed to streamline bookings, payments, and user management for a stretching and fitness studio. Built with a robust Django backend, JPF Stretch Hub offers a user-friendly experience for both clients and administrators.
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+**Backend & Frameworks**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Wagtail](https://img.shields.io/badge/Wagtail-0c3c26?style=for-the-badge&logo=wagtail&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-Let's collaborate and create something amazing!
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**AI & Tools**  
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+Here are a few projects I've built that demonstrate my ability to ship complex tools and applications:
+
+#### 🤖 [MCP Client for Ollama](https://github.com/meshack-vs-you-all/mcp-client-for-ollama)
+> **Stack:** Python, Ollama, MCP Setup  
+> A powerful Text-Based User Interface (TUI) client designed for interacting with **Model Context Protocol (MCP)** servers using **Ollama**. Features include agent mode, dynamic model switching, tool management, and streaming responses. Built for developers who want to harness local LLMs efficiently.
+
+#### 🛍️ [Shopify Marketing AI](https://github.com/meshack-vs-you-all/shopify-marketing-ai)
+> **Stack:** TypeScript, AI Agents  
+> An innovative solution leveraging **AI agents** to automate and optimize marketing strategies for Shopify stores. Solves the pain of manual campaign management by intelligently generating and managing marketing content.
+
+#### 💻 [OpenCode](https://github.com/meshack-vs-you-all/opencode)
+> **Stack:** TypeScript  
+> An **AI coding agent** built specifically for the terminal. It acts as a pair programmer that lives where you work, helping generate code, refactor files, and debug issues directly from your command line.
+
+#### 🏋️ [JPF Stretch Hub](https://github.com/meshack-vs-you-all/jpf-stretch-hub)
+> **Stack:** Django, Python, Web App  
+> A comprehensive business management platform built for a fitness studio. Handles **bookings, payments, and user management** seamlessly. This project demonstrates my ability to build and deploy production-ready full-stack applications solving real business needs.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meshack-vs-you-all&show_icons=true&theme=radical&hide_border=true" alt="Meshack's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meshack-vs-you-all&theme=radical&hide_border=true" alt="Meshack's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-vs-you-all&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 🎯 What I'm Looking For
+
+I am currently open to opportunities where I can leverage my skills in **Full Stack Development** and **AI Engineering**. I thrive in environments that challenge me to build tools that empower other developers or businesses.
+
+- **Interest Areas:** AI Agents, Local LLMs, Developer Tools, SaaS Platforms.
+- **Roles:** Full Stack Engineer, Backend Engineer (Python/Django), AI Engineer.
+
+**📫 How to reach me:**
+*   Check out my [repositories](https://github.com/meshack-vs-you-all?tab=repositories) to see my code in action.
+*   Feel free to open an issue or pull request on any of my projects!
 
 <!---
 meshack-vs-you-all/meshack-vs-you-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
