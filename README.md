@@ -62,12 +62,12 @@ Here are a few projects I've built that demonstrate my ability to ship complex t
 ---
 
 ### 📊 GitHub Stats
-<!---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meshack-vs-you-all&show_icons=true&theme=radical&hide_border=true" alt="Meshack's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meshack-vs-you-all&theme=radical&hide_border=true" alt="Meshack's GitHub Streak" />
 </div>
--->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshack-vs-you-all&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
