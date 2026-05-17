@@ -69,17 +69,17 @@ This is production infrastructure, not a tutorial setup.
 
 ### 🚀 Selected Public Projects
 
-#### 🖥️ [MCP Client for Ollama](https://github.com/meshack-vs-you-all/mcp-client-for-ollama)
-> **Stack:** Python · Ollama · MCP
+#### 💚 [Wellness Solutions Africa](https://wellness-solutions.africa) *(private repo — live product)*
+> **Stack:** TypeScript · Django · React · M-Pesa · WhatsApp API
 
-A full-featured TUI client for running MCP servers with local Ollama models. Supports agent mode, multi-server routing, human-in-the-loop, thinking mode, streaming, and saved preferences. Built for developers who want to use MCP without a cloud LLM dependency.
+Full digital platform for a physiotherapy and corporate wellness company. Handles bookings, client management, payments (M-Pesa + card), and an AI-powered concierge. I architected, built, and deployed the entire system. Live and serving clients.
 
 ---
 
 #### 🛍️ [Shopify Marketing AI](https://github.com/meshack-vs-you-all/shopify-marketing-ai)
 > **Stack:** TypeScript · AI Agents
 
-AI agent system that automates marketing workflows for Shopify stores — campaign generation, content scheduling, and audience targeting without manual work.
+Working prototype of an AI agent system that automates marketing workflows for Shopify stores — campaign generation, content scheduling, and audience targeting. Client funding fell through before deployment; the core agent logic is solid and functional.
 
 ---
 
@@ -93,14 +93,7 @@ Production-ready subscription management system with real billing logic, user ma
 #### 📋 [n8n Free Templates](https://github.com/meshack-vs-you-all/n8n-free-templates)
 > **Stack:** n8n · AI · Automation
 
-200+ plug-and-play n8n workflow templates that combine classic automation with LLMs, vector DBs, and embeddings. Import, add credentials, activate — no build step needed.
-
----
-
-#### 🏋️ JPF Stretch Hub *(private — client project)*
-> **Stack:** Django · Python · HTML/CSS
-
-Full business management platform for a fitness studio: bookings, payments, user accounts, and admin dashboard. Delivered for a real client and running in production.
+200+ plug-and-play n8n workflow templates combining automation with LLMs, vector DBs, and embeddings. Import, add credentials, activate. A curated reference I use and maintain for client automation projects.
 
 ---
 
