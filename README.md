@@ -1,14 +1,27 @@
-# Hi there, I'm Meshack! 👋
+# Hi, I'm Meshack 👋
 
-## Full Stack Engineer | Building the Future with AI Agents & MCP
+### Full-Stack Engineer · AI Infrastructure Builder · Founder
 
-I'm a **Full Stack Engineer** and **AI Developer** passionate about blending robust web architectures with cutting-edge AI tools. My work focuses on building **intelligent agents**, **terminal-based developer tools**, and **scalable Django/React applications**.
+I'm based in **Kenya 🇰🇪** and I've spent years building real products — not side projects that never shipped.  
+I founded two live businesses, built and run my own AI agent infrastructure, and deliver full-stack systems for clients.
 
-Currently, I'm deep diving into **Local LLMs**, **Model Context Protocol (MCP)**, and creating autonomous workflows that solve real-world problems.
+**I'm available for freelance projects, contracts, and remote roles.  
+Contact: admin@craftededgesolutions.africa**
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🏗️ Products I Founded & Shipped
+
+| | Product | Stack | What it does |
+|---|---|---|---|
+| 🌍 | [craftededgesolutions.africa](https://craftededgesolutions.africa) | Python · Node.js · Django | Web design, SEO & AI solutions for African SMEs |
+| 💚 | [wellness-solutions.africa](https://wellness-solutions.africa) | TypeScript · Django · React | Physiotherapy, corporate wellness & online health programmes |
+
+Both are live, in production, and run on infrastructure I built and maintain.
+
+---
+
+### 🛠️ Technical Stack
 
 <div align="center">
 
@@ -16,21 +29,20 @@ Currently, I'm deep diving into **Local LLMs**, **Model Context Protocol (MCP)**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Backend & Frameworks**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Wagtail](https://img.shields.io/badge/Wagtail-0c3c26?style=for-the-badge&logo=wagtail&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Wagtail](https://img.shields.io/badge/Wagtail-0c3c26?style=for-the-badge&logo=wagtail&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**AI & Tools**  
+**AI & Infrastructure**  
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -40,25 +52,55 @@ Currently, I'm deep diving into **Local LLMs**, **Model Context Protocol (MCP)**
 
 ---
 
-### 🚀 Featured Projects
+### 🤖 AI Infrastructure I Run Daily
 
-Here are a few projects I've built that demonstrate my ability to ship complex tools and applications:
+I built and operate a full local + cloud AI stack on my own hardware:
 
-#### 🤖 [MCP Client for Ollama](https://github.com/meshack-vs-you-all/mcp-client-for-ollama)
-> **Stack:** Python, Ollama, MCP Setup  
-> A powerful Text-Based User Interface (TUI) client designed for interacting with **Model Context Protocol (MCP)** servers using **Ollama**. Features include agent mode, dynamic model switching, tool management, and streaming responses. Built for developers who want to harness local LLMs efficiently.
+- **Hermes** — custom multi-tool agent (Groq LLaMA 70B primary, Ollama GPU fallback). Has Spotify control, web search, file tools, cron delegation, and agent-to-agent handoff
+- **Pi** — Node.js coding agent wired to the same Groq backend
+- **Ollama** — GPU-accelerated local inference (qwen3:4b, gemma3:4b, deepseek-r1) running as a systemd service
+- **OpenWebUI** — self-hosted chat UI in Docker
+- **Automated content pipeline** — blog writer (Groq LLaMA) on cron, posting drafts to both sites
+- **MCP (Model Context Protocol)** — integrated into agent toolchains for structured tool use
+
+This is production infrastructure, not a tutorial setup.
+
+---
+
+### 🚀 Selected Public Projects
+
+#### 🖥️ [MCP Client for Ollama](https://github.com/meshack-vs-you-all/mcp-client-for-ollama)
+> **Stack:** Python · Ollama · MCP
+
+A full-featured TUI client for running MCP servers with local Ollama models. Supports agent mode, multi-server routing, human-in-the-loop, thinking mode, streaming, and saved preferences. Built for developers who want to use MCP without a cloud LLM dependency.
+
+---
 
 #### 🛍️ [Shopify Marketing AI](https://github.com/meshack-vs-you-all/shopify-marketing-ai)
-> **Stack:** TypeScript, AI Agents  
-> An innovative solution leveraging **AI agents** to automate and optimize marketing strategies for Shopify stores. Solves the pain of manual campaign management by intelligently generating and managing marketing content.
+> **Stack:** TypeScript · AI Agents
 
-#### 🏋️ JPF Stretch Hub
-> **Stack:** Django, Python, Web App  
-> A comprehensive business management platform built for a fitness studio. Handles **bookings, payments, and user management** seamlessly. This project demonstrates my ability to build and deploy production-ready full-stack applications solving real business needs.
+AI agent system that automates marketing workflows for Shopify stores — campaign generation, content scheduling, and audience targeting without manual work.
 
-#### ✨ [Glowify](https://github.com/meshack-vs-you-all/Glowify)
-> **Stack:** Modern Web Technologies  
-> A recent project showcasing my ability to build clean, functional web applications. Currently in active development.
+---
+
+#### ⚙️ [Complete Backend — Subscription Management](https://github.com/meshack-vs-you-all/Complete-Backend)
+> **Stack:** Node.js · JavaScript
+
+Production-ready subscription management system with real billing logic, user management, and business rules. Designed to drop into a live SaaS product.
+
+---
+
+#### 📋 [n8n Free Templates](https://github.com/meshack-vs-you-all/n8n-free-templates)
+> **Stack:** n8n · AI · Automation
+
+200+ plug-and-play n8n workflow templates that combine classic automation with LLMs, vector DBs, and embeddings. Import, add credentials, activate — no build step needed.
+
+---
+
+#### 🏋️ JPF Stretch Hub *(private — client project)*
+> **Stack:** Django · Python · HTML/CSS
+
+Full business management platform for a fitness studio: bookings, payments, user accounts, and admin dashboard. Delivered for a real client and running in production.
 
 ---
 
@@ -78,52 +120,21 @@ Here are a few projects I've built that demonstrate my ability to ship complex t
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=meshack-vs-you-all&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/meshack-vs-you-all)
-
-</div>
-
 ---
 
-### 📈 Contribution Graph
+### 🎯 Available For
 
-<div align="center">
+- **Freelance & contract projects** — web apps, AI integrations, automation systems, SaaS backends
+- **Remote full-time / part-time roles** — AI Engineer, Backend Engineer (Python/Django), Full-Stack Engineer, Developer Tools
+- **Consulting** — AI strategy, local LLM deployment, agent architecture, self-hosted infra
 
-[![Meshack's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meshack-vs-you-all&theme=tokyo-night&hide_border=true)](https://github.com/meshack-vs-you-all)
+I work across the full stack and own the whole product — from architecture and backend to deployment and maintenance.  
+I understand the African market but work globally.
 
-</div>
-
----
-
-### 🎯 What I'm Looking For
-
-I am currently open to opportunities where I can leverage my skills in **Full Stack Development** and **AI Engineering**. I thrive in environments that challenge me to build tools that empower other developers or businesses.
-
-- **Interest Areas:** AI Agents, Local LLMs, Developer Tools, SaaS Platforms, MCP Protocol
-- **Roles:** Full Stack Engineer, Backend Engineer (Python/Django), AI Engineer, Developer Tools Engineer
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/meshack-vs-you-all?label=Follow&style=social)](https://github.com/meshack-vs-you-all)
-[![GitHub stars](https://img.shields.io/github/stars/meshack-vs-you-all?affiliations=OWNER&style=social)](https://github.com/meshack-vs-you-all)
-
-**Check out my [repositories](https://github.com/meshack-vs-you-all?tab=repositories) to see my code in action.**
-
-Feel free to open an issue or pull request on any of my projects!
-
-</div>
+**Let's talk:** admin@craftededgesolutions.africa · [craftededgesolutions.africa](https://craftededgesolutions.africa)
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=meshack-vs-you-all&style=flat-square&color=blue" alt="Profile views"/>
 </div>
-
-<!---
-meshack-vs-you-all/meshack-vs-you-all is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
