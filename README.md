@@ -79,7 +79,7 @@ Full digital platform for a physiotherapy and corporate wellness company. Handle
 #### 🛍️ [Shopify Marketing AI](https://github.com/meshack-vs-you-all/shopify-marketing-ai)
 > **Stack:** TypeScript · AI Agents
 
-Working prototype of an AI agent system that automates marketing workflows for Shopify stores — campaign generation, content scheduling, and audience targeting. Client funding fell through before deployment; the core agent logic is solid and functional.
+Working prototype of an AI agent system that automates marketing workflows for Shopify stores — campaign generation, content scheduling, and audience targeting. Core agent logic is functional and well-structured.
 
 ---
 
