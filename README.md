@@ -124,7 +124,7 @@ Production-ready subscription management system with real billing logic, user ma
 I work across the full stack and own the whole product — from architecture and backend to deployment and maintenance.  
 I understand the African market but work globally.
 
-**Let's talk:** admin@craftededgesolutions.africa · [craftededgesolutions.africa](https://craftededgesolutions.africa)
+**Let's talk:** admin@craftededgesolutions.africa · [craftededgesolutions.africa](https://craftededgesolutions.africa) · [Portfolio](https://meshack-vs-you-all.github.io/portfolio/)
 
 ---
 
