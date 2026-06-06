@@ -2,6 +2,10 @@
 
 ### Full-Stack Engineer · AI Infrastructure Builder · Founder
 
+> **I build and run production AI + full-stack systems for African SMEs — from architecture and backend to deployment and the infrastructure underneath.**
+
+🚧 **Currently building:** M-Pesa-first fintech flows, multi-tenant white-label SaaS, and self-hosted AI agent infrastructure.
+
 I'm based in **Kenya 🇰🇪** and I've spent years building real products — not side projects that never shipped.  
 I founded two live businesses, built and run my own AI agent infrastructure, and deliver full-stack systems for clients.
 
