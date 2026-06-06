@@ -71,7 +71,14 @@ It's a real, working setup that I rely on and keep running every day.
 
 ---
 
-### 🚀 Selected Public Projects
+### 🚀 Selected Projects
+
+#### 🌍 [Crafted Edge Solutions](https://craftededgesolutions.africa) *(founder · live)*
+> **Stack:** Django · Wagtail · Python · Tailwind · Cloudflare
+
+My software studio and its platform — multi-tenant, white-label-ready infrastructure for African SMEs, with a Wagtail CMS, payments (M-Pesa + Paystack), and messaging automation. I design, build, and run it end-to-end.
+
+---
 
 #### 💚 [Wellness Solutions Africa](https://wellness-solutions.africa) *(private repo — live product)*
 > **Stack:** TypeScript · Django · React · M-Pesa · WhatsApp API
