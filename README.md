@@ -2,12 +2,12 @@
 
 ### Full-Stack Engineer · AI Infrastructure Builder · Founder
 
-> **I build and run production AI + full-stack systems for African SMEs — from architecture and backend to deployment and the infrastructure underneath.**
+> **I build and run production AI + full-stack systems for African SMEs — end to end, from architecture to deployment.**
 
 🚧 **Currently building:** M-Pesa-first fintech flows, multi-tenant white-label SaaS, and self-hosted AI agent infrastructure.
 
-I'm based in **Kenya 🇰🇪** and I've spent years building real products — not side projects that never shipped.  
-I founded two live businesses, built and run my own AI agent infrastructure, and deliver full-stack systems for clients.
+I'm based in **Kenya 🇰🇪** and I care about building things that actually ship and keep running in production.  
+I've founded two live businesses, run my own AI agent infrastructure, and build full-stack systems for clients — and I do my best work as part of a team.
 
 **I'm available for freelance projects, contracts, and remote roles.  
 Contact: admin@craftededgesolutions.africa**
@@ -67,7 +67,7 @@ I built and operate a full local + cloud AI stack on my own hardware:
 - **Automated content pipeline** — blog writer (Groq LLaMA) on cron, posting drafts to both sites
 - **MCP (Model Context Protocol)** — integrated into agent toolchains for structured tool use
 
-This is production infrastructure, not a tutorial setup.
+It's a real, working setup that I rely on and keep running every day.
 
 ---
 
@@ -125,8 +125,8 @@ Production-ready subscription management system with real billing logic, user ma
 - **Remote full-time / part-time roles** — AI Engineer, Backend Engineer (Python/Django), Full-Stack Engineer, Developer Tools
 - **Consulting** — AI strategy, local LLM deployment, agent architecture, self-hosted infra
 
-I work across the full stack and own the whole product — from architecture and backend to deployment and maintenance.  
-I understand the African market but work globally.
+I can take a product end-to-end — architecture, backend, deployment, maintenance — and I equally enjoy collaborating in a team and learning from the people around me.  
+I understand the African market and work globally.
 
 **Let's talk:** admin@craftededgesolutions.africa · [craftededgesolutions.africa](https://craftededgesolutions.africa) · [Portfolio](https://meshack-vs-you-all.github.io/portfolio/)
 
