@@ -18,7 +18,7 @@ Contact: admin@craftededgesolutions.africa**
 
 | | Product | Stack | What it does |
 |---|---|---|---|
-| 🌍 | [craftededgesolutions.africa](https://craftededgesolutions.africa) | Python · Node.js · Django | Web design, SEO & AI solutions for African SMEs |
+| 🌍 | craftededgesolutions.africa | Python · Node.js · Django | Web design, SEO & AI solutions for African SMEs |
 | 💚 | [wellness-solutions.africa](https://wellness-solutions.africa) | TypeScript · Django · React | Physiotherapy, corporate wellness & online health programmes |
 
 Both are live, in production, and run on infrastructure I built and maintain.
@@ -73,7 +73,7 @@ It's a real, working setup that I rely on and keep running every day.
 
 ### 🚀 Selected Projects
 
-#### 🌍 [Crafted Edge Solutions](https://craftededgesolutions.africa) *(founder · live)*
+#### 🌍 Crafted Edge Solutions *(founder)*
 > **Stack:** Django · Wagtail · Python · Tailwind · Cloudflare
 
 My software studio and its platform — multi-tenant, white-label-ready infrastructure for African SMEs, with a Wagtail CMS, payments (M-Pesa + Paystack), and messaging automation. I design, build, and run it end-to-end.
@@ -94,12 +94,6 @@ Working prototype of an AI agent system that automates marketing workflows for S
 
 ---
 
-#### ⚙️ [Complete Backend — Subscription Management](https://github.com/meshack-vs-you-all/Complete-Backend)
-> **Stack:** Node.js · JavaScript
-
-Production-ready subscription management system with real billing logic, user management, and business rules. Designed to drop into a live SaaS product.
-
----
 
 #### 📋 [n8n Free Templates](https://github.com/meshack-vs-you-all/n8n-free-templates)
 > **Stack:** n8n · AI · Automation
@@ -135,7 +129,7 @@ Production-ready subscription management system with real billing logic, user ma
 I can take a product end-to-end — architecture, backend, deployment, maintenance — and I equally enjoy collaborating in a team and learning from the people around me.  
 I understand the African market and work globally.
 
-**Let's talk:** admin@craftededgesolutions.africa · [craftededgesolutions.africa](https://craftededgesolutions.africa) · [Portfolio](https://meshack-vs-you-all.github.io/portfolio/)
+**Let's talk:** admin@craftededgesolutions.africa · [Portfolio](https://meshack.craftededgesolutions.africa)
 
 ---
 
